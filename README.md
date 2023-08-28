@@ -6,3 +6,9 @@
     </br>Watch on YouTube: Image classification + feature extraction with Python and Scikit Learn !
 </a>
 </p>
+
+## data
+
+You can download the same dataset I use in the video [here](https://data.mendeley.com/datasets/4drtyfjtfy/1).
+
+Ajayi, Gbeminiyi (2018), “Multi-class Weather Dataset for Image Classification”, Mendeley Data, V1, doi: 10.17632/4drtyfjtfy.1
